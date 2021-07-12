@@ -143,7 +143,7 @@ export default function Home() {
           </div>
         </div>
         <div className="max-w-3xl mx-auto">
-          {snapshot.docs.map((doc)=> (
+          {snapshot?.docs.map((doc)=> (
             <DocumentRow
               key={doc.id}
               id={doc.id}
