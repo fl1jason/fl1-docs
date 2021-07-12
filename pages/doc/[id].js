@@ -6,7 +6,7 @@ import Icon from "@material-tailwind/react/Icon";
 import { db } from '../../firebase';
 import { useState } from "react";
 import { useDocumentOnce } from 'react-firebase-hooks/firestore';
-import { useRouter } from "next/dist/client/Router";
+import { useRouter } from "next/dist/client/router";
 import TextEditor from "../../components/TextEditor"
 
 const Document = () =>{

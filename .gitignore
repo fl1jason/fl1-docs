@@ -33,3 +33,6 @@ yarn-error.log*
 # vercel
 .vercel
 node_modules
+
+# Local Netlify folder
+.netlify

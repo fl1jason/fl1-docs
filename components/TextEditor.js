@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import { signIn, signOut, getSession, useSession } from 'next-auth/client'
 import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 import { EditorState } from 'draft-js'
-import { useRouter } from "next/dist/client/Router";
+import { useRouter } from "next/dist/client/router";
 import { db } from '../firebase';
 import { convertFromRaw, convertToRaw } from "draft-js";
 import { useDocumentOnce } from 'react-firebase-hooks/firestore';

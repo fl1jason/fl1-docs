@@ -2,7 +2,7 @@ import { useState } from "react";
 import Button from "@material-tailwind/react/Button";
 import Icon from "@material-tailwind/react/Icon";
 import Image from "next/image";
-import { useRouter } from "next/dist/client/Router";
+import { useRouter } from "next/dist/client/router";
 import Menu from '@material-ui/core/Menu';
 import MenuItem from '@material-ui/core/MenuItem';
 
