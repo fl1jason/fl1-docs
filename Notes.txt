@@ -1,0 +1,15 @@
+fl1-docs
+
+
+Google:
+project-876280391414
+hello@fl1.digital
+
+Web CLient ID:
+876280391414-9mnsuafa77hqrj0ftcbrel5ik41hm0dm.apps.googleusercontent.com
+
+
+Web Client Secret:
+e91IE6JpIw7BP6aeasQgeAc6
+
+62477
